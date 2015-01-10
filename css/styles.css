@@ -4,11 +4,12 @@ body{
 
 h1 {
   color: #0000ff;
+  font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial;
 }
 
 h2 {
   letter-spacing: 10px;
-  font-size: .2in;
+  font-size: 25px;
   background-color: #0000ff;
   color: lightblue;
   text-transform: uppercase;
@@ -41,7 +42,7 @@ label {
 .text {
   position: absolute;
   margin-left: 20px;
-  width: 15em;
+  width: 20px;
   left: 80px;
 }
  img {
